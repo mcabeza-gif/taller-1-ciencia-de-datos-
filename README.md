@@ -1,5 +1,5 @@
 
-# Proyecto Modelado de base datos
+# Proyecto Modelar una base de datos con POO en Python
 
 ## Descripción
 Este proyecto de ciencia de datos, modelan entidades clave como clientes, datasets, analistas y proyectos utilizando Programación Orientada a Objetos (POO) en Python.
